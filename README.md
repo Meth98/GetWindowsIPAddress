@@ -1,5 +1,6 @@
 # WinGetIP
-A PowerShell script to print the IP address of your Windows system
+A PowerShell script to print the IP address of your Windows system (if it has several, of course they will all be printed out!)
+<hr>
 
-<em><strong> USAGE: </strong></em><br><br>
-&nbsp; powershell.exe .\GetIPAddress.ps1
+### USAGE
+&nbsp;&nbsp; ``` powershell.exe .\GetIPAddress.ps1 ```
